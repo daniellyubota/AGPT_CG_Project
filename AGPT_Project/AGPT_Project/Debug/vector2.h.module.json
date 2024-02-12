@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\Vector2.h.obj",
+            "outputs": [
+                "C:\\Users\\danie\\OneDrive\\Desktop\\AGPT_Project\\AGPT_Project\\AGPT_Project\\Debug\\vc143.pdb",
+                "Debug\\",
+                "C:\\Users\\danie\\OneDrive\\Desktop\\AGPT_Project\\AGPT_Project\\AGPT_Project\\Debug\\Vector2.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Vector2.h",
+                    "source-path": "c:\\users\\danie\\onedrive\\desktop\\agpt_project\\agpt_project\\agpt_project\\vector2.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

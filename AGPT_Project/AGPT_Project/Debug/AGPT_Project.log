@@ -1,0 +1,32 @@
+﻿  Scanning sources for module dependencies...
+  Animation.cpp
+  Asteroids.cpp
+  Bullet.cpp
+  Clock.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\AGPT_Project\AGPT_Project\Clock.cpp(20,18): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  Collision.cpp
+  Color.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\AGPT_Project\AGPT_Project\Color.cpp(27,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\AGPT_Project\AGPT_Project\Color.cpp(32,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\AGPT_Project\AGPT_Project\Color.cpp(37,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\AGPT_Project\AGPT_Project\Color.cpp(57,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  DestroyOnCollide.cpp
+  Game.cpp
+  GameObject.cpp
+  HealthBar.cpp
+  main.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\AGPT_Project\AGPT_Project\main.cpp(60,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PlayerController.cpp
+  ResourceManager.cpp
+  Shader.cpp
+  SimpleMovement.cpp
+  Sprite.cpp
+  SpriteRenderer.cpp
+  SpriteUtil.cpp
+  Texture.cpp
+  TextureFragment.cpp
+  Generating Code...
+  Compiling...
+  Window.cpp
+  Generating Code...
+  AGPT_Project.vcxproj -> C:\Users\danie\OneDrive\Desktop\AGPT_Project\AGPT_Project\Debug\AGPT_Project.exe

@@ -1,0 +1,371 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (yuri.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Animation.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Asteroids.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Shader.h(4,10): fatal  error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Bullet.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Clock.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Clock.cpp(20,18): warning C4244: 'initializing': conversion from 'uint64_t' to 'int', possible loss of data
+  ClockImpl.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\ClockImpl.cpp(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Collision.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Color.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Color.cpp(27,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Color.cpp(32,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Color.cpp(37,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Color.cpp(57,12): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Component.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  ComponentBase.cpp
+  DefaultTextureLoader.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\shader.h(4,10): fatal  error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  DestroyOnCollide.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Enemy.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Game.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Shader.h(4,10): fatal  error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  GameObject.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  HealthBar.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  main.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\main.cpp(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  PlayerController.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  ResourceManager.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\shader.h(4,10): fatal  error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  Shader.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Shader.h(4,10): fatal  error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  SimpleMovement.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Generating Code...
+  Compiling...
+  Sprite.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  SpriteRenderer.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\SpriteRenderer.h(3,10): fatal  error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  SpriteUtil.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,9): error C2061: syntax error: identifier 'objectDependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(17,80): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,9): error C2061: syntax error: identifier 'objectInependentComponent'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(22,65): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,9): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(28,52): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,9): error C2061: syntax error: identifier 'startable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(34,35): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,9): error C2061: syntax error: identifier 'Collidable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2143: syntax error: missing ';' before '{'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(39,54): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(42,11): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(90,2): error C2913: explicit specialization; 'engine::Component' is not a specialization of a class template
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(92,10): error C2061: syntax error: identifier 'updatable'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,35): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,39): error C2027: use of undefined type 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(43,17): message : see declaration of 'engine::Component'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2734: 'engine::type_id': 'const' object must be initialized if not 'extern'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): error C2065: 'T': undeclared identifier
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,49): error C2672: 'engine::generate_type_id': no matching overloaded function found
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\util.h(34,16): message : could be 'engine::object_type_id engine::generate_type_id(void)'
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,66): message : 'engine::generate_type_id': invalid template argument for 'T', type expected
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Component.h(93,70): fatal  error C1903: unable to recover from previous error(s); stopping compilation
+  Texture.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Texture.cpp(2,10): fatal  error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  TextureFragment.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\TextureFragment.cpp(2,10): fatal  error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Vector2.h
+  Window.cpp
+C:\Users\danie\OneDrive\Desktop\AGPT_Project\yuri\yuri\Window.cpp(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
